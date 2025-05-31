@@ -4,7 +4,7 @@ A fully functioning AI chatbot built to represents **me**, as if a recruiter or 
 
 This project is a **multi-agent LLM system** that reads my professional background, understands my experiences, and speaks on my behalf in a professional and engaging way — exactly how I would, when applying for a job or being interviewed.
 
-Apart from being just a chatbot, it is a **real-time evaluator-backed agent loop** that refines its responses until they meet professional standards — ideal for showcasing how LLMs can be grounded, self-evaluated, and deployed for real-world interaction.
+Apart from being just a chatbot, it is a **real-time evaluator-backed agent loop** that refines its responses until they meet professional standards, ideal for showcasing how LLMs can be grounded, self-evaluated, and deployed for real-world interaction.
 
 ---
 
