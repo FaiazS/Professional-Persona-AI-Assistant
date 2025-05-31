@@ -12,13 +12,13 @@ Apart from being just a chatbot, it is a **real-time evaluator-backed agent loop
 
 **Recruiters and hiring managers** often visit a candidate's portfolio or LinkedIn and wonder:
 
-> _“Can I get a quick, clear sense of who this person is?”_
+> _“Can I get a quick, clear sense of who this person is without manual inspection and much time consumption?”_
 
-Instead of reading through text, they can now **talk to me directly via my AI agent**. This agent:
+So instead of going through and reading text, they can now **talk to me directly via my AI agent**. This agent:
 
 - Is grounded on my professional summary and LinkedIn profile
   
-- Understands how to speak in a way that's appropriate for recruiters
+- Understands how to speak in a way that's appropriate
   
 - Can answer questions like:
   
