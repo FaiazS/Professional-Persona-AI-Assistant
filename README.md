@@ -1,6 +1,6 @@
 # Professional-Persona-AI-Assistant
 ---
-A fully functioning AI chatbot built to represents **me**, as if a recruiter or hiring manager is personally interacting with.
+A fully functioning AI chatbot built that represents **me**, as if a recruiter or hiring manager is personally interacting with.
 
 This project is a **multi-agent LLM system** that reads my professional background, understands my experiences, and speaks on my behalf in a professional and engaging way — exactly how I would, when applying for a job or being interviewed.
 
