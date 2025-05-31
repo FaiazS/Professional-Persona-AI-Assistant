@@ -38,15 +38,10 @@ Instead of reading through text, they can now **talk to me directly via my AI ag
 | Feature                             | Description                                                                 |
 |-------------------------------------|-----------------------------------------------------------------------------|
 | 🧠 LLM Simulation                   | Uses **LLaMA 3 (Groq)** to simulate my responses from professional context |
-
-| 🕵️‍♂️ Evaluator Layer                | Uses **GPT-4o (OpenAI)** to review, critique, and flag weak answers        |
-
+| 🕵️‍♂️ Evaluator Layer                  | Uses **GPT-4o (OpenAI)** to review, critique, and flag weak answers        |
 | 🔁 Self-Correction Loop             | If rejected, the agent re-generates the answer with feedback               |
-
 | 📄 Context Grounding                | Reads my **LinkedIn profile PDF** and **professional summary**             |
-
-| 🎛️ Gradio UI                       | Clean interface for live interaction                                       |
-
+| 🎛️ Gradio UI                        | Clean interface for live interaction                                       |
 | 🧱 Built from scratch               | Every component — prompt design, logic, flow, retry loop — is engineered   |
 
 ---
