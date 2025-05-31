@@ -79,5 +79,46 @@ So instead of going through and reading text, they can now **talk to me directly
    If the evaluator rejects a reply, the chatbot regenerates it using the feedback.
 
 5. **Final Output**  
-   The user gets a refined, professionally acceptable response — as if talking to me.
+   The user gets a refined, professionally acceptable response — as if talking to the physical professional me.
+   
+---
+
+## 🧠 Objective
+
+- To go beyond a traditional portfolio and **showcase real AI Engineering**
+
+- To demonstrate how LLMs can simulate humans professionally
+  
+- To stand out as a candidate who doesn't just talk about AI — but also build them
+
+---
+
+## 💬 What Recruiters and Hiring Managers Can Ask My Chatbot
+
+- “What are your core technical skills?”
+  
+- “Tell me about your experience with Spring Boot”
+  
+- “Have you worked on AI projects?”
+  
+- “What are your career goals?"
+  
+- “Are you open to relocation or remote work?”
+
+> You’ll get answers based on my real experience — and evaluated for professionalism.
+
+---
+
+## 🧠 Key skills involved 
+
+- Prompt Engineering (System prompts, evaluation prompts, regeneration prompts)
+  
+- Retrieval-Augmented Generation (RAG-style grounding from PDF & text)
+  
+- Multi-agent LLM flow (chatbot + evaluator + retry)
+  
+- Chain of Thought (regeneration with reasoned feedback)
+  
+- Safe fallback behavior (refuses when unsure)
+  
 ---
